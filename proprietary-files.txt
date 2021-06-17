@@ -342,6 +342,12 @@ vendor/lib64/hw/vulkan.adreno.so|fcc99045aaf7eed0925ac2b64ff2af085212954a
 system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml|563a58554d9c0dd0608552b644fbf74519a447bb
 system_ext/framework/com.android.hotwordenrollment.common.util.jar|bef92589e75a6da6043f85f4b9b0e85866429624
 
+# HotwordEnrollment
+-product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk
+-product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk
+system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml
+-system_ext/framework/com.android.hotwordenrollment.common.util.jar
+
 # IMS
 -product/app/uceShimService/uceShimService.apk:system_ext/app/uceShimService/uceShimService.apk
 product/lib64/com.qualcomm.qti.imscmservice@1.0.so:system_ext/lib64/com.qualcomm.qti.imscmservice@1.0.so
